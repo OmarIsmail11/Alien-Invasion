@@ -1,0 +1,12 @@
+Power Ranges:
+•	Strong: 60 - 80
+•	Moderate: 40 - 70
+•	Weak: 10 - 40
+Health Ranges:
+•	Strong: 75 - 100
+•	Moderate: 56 - 75
+•	Weak: 25 - 55
+Attack Capacity Ranges:
+•	Strong: 7 - 10
+•	Moderate: 4 - 6
+•	Weak: 1 - 3
