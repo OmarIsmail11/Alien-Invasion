@@ -6,8 +6,8 @@ This was the final project of the Data Structures and Algorithms (DSA) subject a
 
 - Fully implemented using Queue, Stack, Deqeue, Priority Queue
 - Generate two armies with different unit types
-- Earth has soldier, Tank, Gunnery, Heal Unit (Medic)
-- Alien has soldier, Drone, Monster
+- Earth Army has soldier, Tank, Gunnery, Heal Unit (Medic)
+- Alien Army has soldier, Drone, Monster
 - Simulate a battle until one army wins
 - Configurable army strengths and weaknesses
 - At every timestep, new units are generated depending on configured army strengths & weaknesses 
