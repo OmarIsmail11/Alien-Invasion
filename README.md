@@ -1,30 +1,13 @@
-# Army Battle Simulator
+# Alien Invasion - Earth Army vs Alien Army Battle Simulator
 
-This project is a Data Structures and Algorithms (DSA) simulation where two armies, each consisting of three types of units, battle each other until one army is completely defeated.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [How It Works](#how-it-works)
-- [Unit Types](#unit-types)
-- [Usage](#usage)
-- [Example Output](#example-output)
-- [Technologies](#technologies)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-The Army Battle Simulator is a project that demonstrates the use of data structures and algorithms by simulating a combat scenario between two armies. Each army consists of three different unit types, and they battle each other until one side is defeated. 
+This was the final project of the Data Structures and Algorithms (DSA) subject at college. It is a simulation where two armies, each consisting of three types of units, battle each other until one army is completely defeated.
 
 ## Features
 
+- Fully implemented using Queue, Stack, Deqeue
 - Generate two armies with different unit types
 - Simulate a battle until one army wins
-- Configurable unit strengths and weaknesses
+- Configurable army strengths and weaknesses
 - Randomized but strategic attacks
 
 ## Getting Started
