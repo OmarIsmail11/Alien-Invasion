@@ -1,6 +1,6 @@
 # Alien Invasion - Earth Army vs Alien Army Battle Simulator
 
-This was the final project of the Data Structures and Algorithms (DSA) subject at college. It is a simulation where two armies, each consisting of three types of units, battle each other until one army is completely defeated.
+This was the final project of the Data Structures and Algorithms (DSA) subject at college fully implemented using C++. It is a simulation where two armies, each consisting of three types of units, battle each other until one army is completely defeated.
 
 ## Features
 
